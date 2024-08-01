@@ -1,4 +1,4 @@
-# BeedooChalenge
+# DesafioQABeedoo
 
 Algumas decisões foram necessárias para garantir que os cenários fossem claros, abragentes e que refletissem as possíveis interações do usuário com a página destacada.
 1. Estrutura da User Story
