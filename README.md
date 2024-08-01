@@ -34,3 +34,5 @@ Descrição:
 Como um usuário,
 Eu quero excluir um curso,
 Para remover da lista os cursos que não estão mais disponíveis.
+
+Link da planilha no Google Sheets: https://docs.google.com/spreadsheets/d/1_0ihNKTg3t3bpr1Qp6by6qMUwuY9wBPR9oeYu_TSxkE/edit?usp=sharing
