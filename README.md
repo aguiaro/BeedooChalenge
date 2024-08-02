@@ -21,22 +21,22 @@ Razão: A validação de entrada de dados é importante para manter a integridad
 ### User Story 1
 #### Título: Cadastrar um curso
 #### Descrição:
-Como um usuário,
-Eu quero cadastrar cursos,
+Como um usuário,  
+Eu quero cadastrar cursos,  
 Para que suas informações fiquem disponíveis para os alunos.
 
 ### User Story 2
 #### Título: Validar caracteres no cadastro de curso
 #### Descrição:
-Como um usuário,
-Eu quero validar os tipos de caracteres aceitáveis,
+Como um usuário,  
+Eu quero validar os tipos de caracteres aceitáveis,  
 Para garantir que os campos sejam descritos.
 
 ### User Story 3
 #### Título: Excluir um curso
 #### Descrição:
-Como um usuário,
-Eu quero excluir um curso,
+Como um usuário,  
+Eu quero excluir um curso,  
 Para remover da lista os cursos que não estão mais disponíveis.
 
 
