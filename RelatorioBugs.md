@@ -3,6 +3,9 @@
 ## Resumo
 Este relatório documenta os bugs encontrados durante os testes da nova feature do módulo de curso.
 
+## Metodoligia
+O relatório gerado e escrito em Markdown foi a forma mais simples e prática para acompanhar o padrão do README e relatar os bugs encontrados.
+
 ## Bugs Encontrados
 
 ### Bug 1: Cadastro - Campos em branco
